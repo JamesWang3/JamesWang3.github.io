@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Design | PanxyCris</title>
-    <link>https://panxycris.github.io/note/leetcode/design/</link>
-      <atom:link href="https://panxycris.github.io/note/leetcode/design/index.xml" rel="self" type="application/rss+xml" />
+    <title>Design | JamesWang3</title>
+    <link>https://JamesWang3.github.io/note/leetcode/design/</link>
+      <atom:link href="https://JamesWang3.github.io/note/leetcode/design/index.xml" rel="self" type="application/rss+xml" />
     <description>Design</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://panxycris.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://JamesWang3.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Design</title>
-      <link>https://panxycris.github.io/note/leetcode/design/</link>
+      <link>https://JamesWang3.github.io/note/leetcode/design/</link>
     </image>
     
     <item>
       <title>Design a Leaderboard</title>
-      <link>https://panxycris.github.io/note/leetcode/design/design-a-leaderboard/</link>
+      <link>https://JamesWang3.github.io/note/leetcode/design/design-a-leaderboard/</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/leetcode/design/design-a-leaderboard/</guid>
+      <guid>https://JamesWang3.github.io/note/leetcode/design/design-a-leaderboard/</guid>
       <description>&lt;h3 id=&#34;problem-description&#34;&gt;Problem description&lt;/h3&gt;
 &lt;p&gt;Design a Leaderboard class, which has 3 functions:&lt;/p&gt;
 &lt;ol&gt;
@@ -85,9 +85,9 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
     
     <item>
       <title>Randomly pick an element</title>
-      <link>https://panxycris.github.io/note/leetcode/design/randomly-pick-an-element/</link>
+      <link>https://JamesWang3.github.io/note/leetcode/design/randomly-pick-an-element/</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/leetcode/design/randomly-pick-an-element/</guid>
+      <guid>https://JamesWang3.github.io/note/leetcode/design/randomly-pick-an-element/</guid>
       <description>&lt;h3 id=&#34;problem-description&#34;&gt;Problem description&lt;/h3&gt;
 &lt;p&gt;Design a data structure, which has 3 functions:&lt;/p&gt;
 &lt;ol&gt;

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PanxyCris</title>
-    <link>https://panxycris.github.io/zh/</link>
-      <atom:link href="https://panxycris.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
-    <description>PanxyCris</description>
+    <title>JamesWang3</title>
+    <link>https://JamesWang3.github.io/zh/</link>
+      <atom:link href="https://JamesWang3.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <description>JamesWang3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://panxycris.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>PanxyCris</title>
-      <link>https://panxycris.github.io/zh/</link>
+      <url>https://JamesWang3.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>JamesWang3</title>
+      <link>https://JamesWang3.github.io/zh/</link>
     </image>
     
     <item>
       <title>WhaleWord</title>
-      <link>https://panxycris.github.io/zh/project/whaleword/</link>
+      <link>https://JamesWang3.github.io/zh/project/whaleword/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/zh/project/whaleword/</guid>
+      <guid>https://JamesWang3.github.io/zh/project/whaleword/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
 &lt;li&gt;背GRE单词的安卓App&lt;/li&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>IPNET</title>
-      <link>https://panxycris.github.io/zh/project/ipnet/</link>
+      <link>https://JamesWang3.github.io/zh/project/ipnet/</link>
       <pubDate>Sat, 03 Nov 2018 18:33:07 +0800</pubDate>
-      <guid>https://panxycris.github.io/zh/project/ipnet/</guid>
+      <guid>https://JamesWang3.github.io/zh/project/ipnet/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;基于区块链的专利交易平台&lt;/p&gt;
@@ -64,9 +64,9 @@
     
     <item>
       <title>UTag</title>
-      <link>https://panxycris.github.io/zh/project/utag/</link>
+      <link>https://JamesWang3.github.io/zh/project/utag/</link>
       <pubDate>Sun, 24 Jun 2018 18:54:05 +0800</pubDate>
-      <guid>https://panxycris.github.io/zh/project/utag/</guid>
+      <guid>https://JamesWang3.github.io/zh/project/utag/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;给图像和视频进行标注&lt;/li&gt;
 &lt;li&gt;数据需求者发布图像或视频，平台可进行自动化标注并将识别率低的发给数据工人进行手动标注&lt;/li&gt;

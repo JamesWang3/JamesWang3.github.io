@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yu Pan | PanxyCris</title>
-    <link>https://panxycris.github.io/authors/yu-pan/</link>
-      <atom:link href="https://panxycris.github.io/authors/yu-pan/index.xml" rel="self" type="application/rss+xml" />
+    <title>Yu Pan | JamesWang3</title>
+    <link>https://JamesWang3.github.io/authors/yu-pan/</link>
+      <atom:link href="https://JamesWang3.github.io/authors/yu-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu Pan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://panxycris.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://JamesWang3.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Yu Pan</title>
-      <link>https://panxycris.github.io/authors/yu-pan/</link>
+      <link>https://JamesWang3.github.io/authors/yu-pan/</link>
     </image>
     
     <item>
       <title>WhaleWord</title>
-      <link>https://panxycris.github.io/project/whaleword/</link>
+      <link>https://JamesWang3.github.io/project/whaleword/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/project/whaleword/</guid>
+      <guid>https://JamesWang3.github.io/project/whaleword/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>UTag</title>
-      <link>https://panxycris.github.io/project/utag/</link>
+      <link>https://JamesWang3.github.io/project/utag/</link>
       <pubDate>Sun, 24 Jun 2018 18:54:05 +0800</pubDate>
-      <guid>https://panxycris.github.io/project/utag/</guid>
+      <guid>https://JamesWang3.github.io/project/utag/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;A platform for data annotation labeling.&lt;/li&gt;
 &lt;li&gt;The data annotation requester publishes images and videos on the platform, and the platform automatically labels, and then sends the lower recognition rate data to the workers to label.&lt;/li&gt;

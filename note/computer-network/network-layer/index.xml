@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Network Layer | PanxyCris</title>
-    <link>https://panxycris.github.io/note/computer-network/network-layer/</link>
-      <atom:link href="https://panxycris.github.io/note/computer-network/network-layer/index.xml" rel="self" type="application/rss+xml" />
+    <title>Network Layer | JamesWang3</title>
+    <link>https://JamesWang3.github.io/note/computer-network/network-layer/</link>
+      <atom:link href="https://JamesWang3.github.io/note/computer-network/network-layer/index.xml" rel="self" type="application/rss+xml" />
     <description>Network Layer</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://panxycris.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://JamesWang3.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Network Layer</title>
-      <link>https://panxycris.github.io/note/computer-network/network-layer/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/network-layer/</link>
     </image>
     
     <item>
       <title>DHCP</title>
-      <link>https://panxycris.github.io/note/computer-network/network-layer/dhcp/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/network-layer/dhcp/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/computer-network/network-layer/dhcp/</guid>
+      <guid>https://JamesWang3.github.io/note/computer-network/network-layer/dhcp/</guid>
       <description>&lt;p&gt;Dynamic Host Configuration Protocol&lt;/p&gt;
 &lt;p&gt;Designed to dynamically configure TCP/IP hosts in a centralized manner from DHCP server.&lt;/p&gt;
 &lt;h3 id=&#34;function&#34;&gt;Function&lt;/h3&gt;
@@ -46,7 +46,7 @@
                /note/computer-network/network-layer/dhcp/DHCP_hud663d6abf2db500a1190a4428fea0580_117949_62f11cfb055590a9986be2bc638fa04c.png 400w,
                /note/computer-network/network-layer/dhcp/DHCP_hud663d6abf2db500a1190a4428fea0580_117949_f596218a4de3dbc80db3c8b32e1b6790.png 760w,
                /note/computer-network/network-layer/dhcp/DHCP_hud663d6abf2db500a1190a4428fea0580_117949_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/network-layer/dhcp/DHCP_hud663d6abf2db500a1190a4428fea0580_117949_62f11cfb055590a9986be2bc638fa04c.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/network-layer/dhcp/DHCP_hud663d6abf2db500a1190a4428fea0580_117949_62f11cfb055590a9986be2bc638fa04c.png&#34;
                width=&#34;760&#34;
                height=&#34;224&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -102,7 +102,7 @@ address in the Your IP Address field&lt;/p&gt;
                /note/computer-network/network-layer/dhcp/DHCP%20Header_hu5b7cc96fd4b093541ae6f5cf3addd6af_198894_78319e4a0bde2ccf8ebd11df2ecce3b5.png 400w,
                /note/computer-network/network-layer/dhcp/DHCP%20Header_hu5b7cc96fd4b093541ae6f5cf3addd6af_198894_8e2eb6984baecf2576134675c18e31c6.png 760w,
                /note/computer-network/network-layer/dhcp/DHCP%20Header_hu5b7cc96fd4b093541ae6f5cf3addd6af_198894_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/network-layer/dhcp/DHCP%20Header_hu5b7cc96fd4b093541ae6f5cf3addd6af_198894_78319e4a0bde2ccf8ebd11df2ecce3b5.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/network-layer/dhcp/DHCP%20Header_hu5b7cc96fd4b093541ae6f5cf3addd6af_198894_78319e4a0bde2ccf8ebd11df2ecce3b5.png&#34;
                width=&#34;760&#34;
                height=&#34;472&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -146,9 +146,9 @@ terminated path name of a file to bootstrap from&lt;/li&gt;
     
     <item>
       <title>Network Translator</title>
-      <link>https://panxycris.github.io/note/computer-network/network-layer/network-translator/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/network-layer/network-translator/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/computer-network/network-layer/network-translator/</guid>
+      <guid>https://JamesWang3.github.io/note/computer-network/network-layer/network-translator/</guid>
       <description>&lt;p&gt;Network Address and Port Address Translator&lt;/p&gt;
 &lt;h3 id=&#34;nat&#34;&gt;NAT&lt;/h3&gt;
 &lt;p&gt;Network Address Translator&lt;/p&gt;
@@ -193,7 +193,7 @@ addresses (usually public).&lt;/li&gt;
                /note/computer-network/network-layer/network-translator/NAT_hu4ff8046c06eb34f39266bd8704a793e2_442149_70f402d2291b72a7a215851d7a66c232.png 400w,
                /note/computer-network/network-layer/network-translator/NAT_hu4ff8046c06eb34f39266bd8704a793e2_442149_92c78ad351796b7a0fdc935a01920553.png 760w,
                /note/computer-network/network-layer/network-translator/NAT_hu4ff8046c06eb34f39266bd8704a793e2_442149_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/network-layer/network-translator/NAT_hu4ff8046c06eb34f39266bd8704a793e2_442149_70f402d2291b72a7a215851d7a66c232.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/network-layer/network-translator/NAT_hu4ff8046c06eb34f39266bd8704a793e2_442149_70f402d2291b72a7a215851d7a66c232.png&#34;
                width=&#34;760&#34;
                height=&#34;387&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

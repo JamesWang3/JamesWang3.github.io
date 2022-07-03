@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Academic</title>
-    <link>https://panxycris.github.io/projects/</link>
-      <atom:link href="https://panxycris.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://JamesWang3.github.io/projects/</link>
+      <atom:link href="https://JamesWang3.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://panxycris.github.io/img/icon-192.png</url>
+      <url>https://JamesWang3.github.io/img/icon-192.png</url>
       <title>Projects</title>
-      <link>https://panxycris.github.io/projects/</link>
+      <link>https://JamesWang3.github.io/projects/</link>
     </image>
     
   </channel>

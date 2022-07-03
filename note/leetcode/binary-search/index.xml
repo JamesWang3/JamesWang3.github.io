@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Binary Search | PanxyCris</title>
-    <link>https://panxycris.github.io/note/leetcode/binary-search/</link>
-      <atom:link href="https://panxycris.github.io/note/leetcode/binary-search/index.xml" rel="self" type="application/rss+xml" />
+    <title>Binary Search | JamesWang3</title>
+    <link>https://JamesWang3.github.io/note/leetcode/binary-search/</link>
+      <atom:link href="https://JamesWang3.github.io/note/leetcode/binary-search/index.xml" rel="self" type="application/rss+xml" />
     <description>Binary Search</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://panxycris.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://JamesWang3.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Binary Search</title>
-      <link>https://panxycris.github.io/note/leetcode/binary-search/</link>
+      <link>https://JamesWang3.github.io/note/leetcode/binary-search/</link>
     </image>
     
     <item>
       <title>Maximum Running Time of N Computers</title>
-      <link>https://panxycris.github.io/note/leetcode/binary-search/maximum-running-time-of-n-computers/</link>
+      <link>https://JamesWang3.github.io/note/leetcode/binary-search/maximum-running-time-of-n-computers/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/leetcode/binary-search/maximum-running-time-of-n-computers/</guid>
+      <guid>https://JamesWang3.github.io/note/leetcode/binary-search/maximum-running-time-of-n-computers/</guid>
       <description>&lt;h3 id=&#34;problem-description&#34;&gt;Problem description&lt;/h3&gt;
 &lt;p&gt;You have &lt;code&gt;n&lt;/code&gt; computers. You are given the integer &lt;code&gt;n&lt;/code&gt; and a &lt;strong&gt;0-indexed&lt;/strong&gt; integer array &lt;code&gt;batteries&lt;/code&gt; where the $i^{th}$ battery can &lt;strong&gt;run&lt;/strong&gt; a computer for &lt;code&gt;batteries[i]&lt;/code&gt; minutes. You are interested in running &lt;strong&gt;all&lt;/strong&gt; &lt;code&gt;n&lt;/code&gt; computers &lt;strong&gt;simultaneously&lt;/strong&gt; using the given batteries.&lt;/p&gt;
 &lt;p&gt;Initially, you can insert &lt;strong&gt;at most one battery&lt;/strong&gt; into each computer. After that and at any integer time moment, you can remove a battery from a computer and insert another battery &lt;strong&gt;any number of times&lt;/strong&gt;. The inserted battery can be a totally new battery or a battery from another computer. You may assume that the removing and inserting processes take no time.&lt;/p&gt;

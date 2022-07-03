@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>📊 System Design | PanxyCris</title>
-    <link>https://panxycris.github.io/note/system-design/</link>
-      <atom:link href="https://panxycris.github.io/note/system-design/index.xml" rel="self" type="application/rss+xml" />
+    <title>📊 System Design | JamesWang3</title>
+    <link>https://JamesWang3.github.io/note/system-design/</link>
+      <atom:link href="https://JamesWang3.github.io/note/system-design/index.xml" rel="self" type="application/rss+xml" />
     <description>📊 System Design</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://panxycris.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://JamesWang3.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>📊 System Design</title>
-      <link>https://panxycris.github.io/note/system-design/</link>
+      <link>https://JamesWang3.github.io/note/system-design/</link>
     </image>
     
     <item>
       <title>Scalability</title>
-      <link>https://panxycris.github.io/note/system-design/scalability/</link>
+      <link>https://JamesWang3.github.io/note/system-design/scalability/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/system-design/scalability/</guid>
+      <guid>https://JamesWang3.github.io/note/system-design/scalability/</guid>
       <description>&lt;p&gt;Handle an amount of work that resources can be added to the system.&lt;/p&gt;
 &lt;h2 id=&#34;two-modes&#34;&gt;Two modes&lt;/h2&gt;
 &lt;ul&gt;
@@ -80,7 +80,7 @@
                /note/system-design/scalability/nslookup_google_hu15bd37a2029b33082ba983a1806f93bd_95881_3e02cf999951f569633ab8a8a768a443.png 400w,
                /note/system-design/scalability/nslookup_google_hu15bd37a2029b33082ba983a1806f93bd_95881_1cded85855b11767b478f4e3ec7e18f9.png 760w,
                /note/system-design/scalability/nslookup_google_hu15bd37a2029b33082ba983a1806f93bd_95881_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/system-design/scalability/nslookup_google_hu15bd37a2029b33082ba983a1806f93bd_95881_3e02cf999951f569633ab8a8a768a443.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/system-design/scalability/nslookup_google_hu15bd37a2029b33082ba983a1806f93bd_95881_3e02cf999951f569633ab8a8a768a443.png&#34;
                width=&#34;760&#34;
                height=&#34;473&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

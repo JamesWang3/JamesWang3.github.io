@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Transport Layer | PanxyCris</title>
-    <link>https://panxycris.github.io/note/computer-network/transport-layer/</link>
-      <atom:link href="https://panxycris.github.io/note/computer-network/transport-layer/index.xml" rel="self" type="application/rss+xml" />
+    <title>Transport Layer | JamesWang3</title>
+    <link>https://JamesWang3.github.io/note/computer-network/transport-layer/</link>
+      <atom:link href="https://JamesWang3.github.io/note/computer-network/transport-layer/index.xml" rel="self" type="application/rss+xml" />
     <description>Transport Layer</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://panxycris.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://JamesWang3.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Transport Layer</title>
-      <link>https://panxycris.github.io/note/computer-network/transport-layer/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/transport-layer/</link>
     </image>
     
     <item>
       <title>TCP</title>
-      <link>https://panxycris.github.io/note/computer-network/transport-layer/tcp/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/computer-network/transport-layer/tcp/</guid>
+      <guid>https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/</guid>
       <description>&lt;p&gt;Transport Control Protocol&lt;/p&gt;
 &lt;h3 id=&#34;feature&#34;&gt;Feature&lt;/h3&gt;
 &lt;ul&gt;
@@ -46,7 +46,7 @@
                /note/computer-network/transport-layer/tcp/TCP%20Header_hua3d9dce47e5b42c0179df68bbfbdba33_46648_2c07b13bfee7ff6f325ab01a8c9f1462.png 400w,
                /note/computer-network/transport-layer/tcp/TCP%20Header_hua3d9dce47e5b42c0179df68bbfbdba33_46648_021ca28d9a382ac97fa54c0808fe751d.png 760w,
                /note/computer-network/transport-layer/tcp/TCP%20Header_hua3d9dce47e5b42c0179df68bbfbdba33_46648_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/tcp/TCP%20Header_hua3d9dce47e5b42c0179df68bbfbdba33_46648_2c07b13bfee7ff6f325ab01a8c9f1462.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/TCP%20Header_hua3d9dce47e5b42c0179df68bbfbdba33_46648_2c07b13bfee7ff6f325ab01a8c9f1462.png&#34;
                width=&#34;570&#34;
                height=&#34;298&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -87,7 +87,7 @@
                /note/computer-network/transport-layer/tcp/TCP%20Establishment_hu66203eec0205b708c60acc647ae66ee5_47122_bc4e972b1f0574fe14e6437bda0603f8.png 400w,
                /note/computer-network/transport-layer/tcp/TCP%20Establishment_hu66203eec0205b708c60acc647ae66ee5_47122_43c1c87887aa0f2ce22067d1f502d470.png 760w,
                /note/computer-network/transport-layer/tcp/TCP%20Establishment_hu66203eec0205b708c60acc647ae66ee5_47122_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/tcp/TCP%20Establishment_hu66203eec0205b708c60acc647ae66ee5_47122_bc4e972b1f0574fe14e6437bda0603f8.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/TCP%20Establishment_hu66203eec0205b708c60acc647ae66ee5_47122_bc4e972b1f0574fe14e6437bda0603f8.png&#34;
                width=&#34;562&#34;
                height=&#34;478&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -113,7 +113,7 @@
                /note/computer-network/transport-layer/tcp/TCP%20Termination_hu032c00bd0e2850496a99e3cfa1605c5e_78513_c32abfc067aae8e1b4fe109ae7b6e521.png 400w,
                /note/computer-network/transport-layer/tcp/TCP%20Termination_hu032c00bd0e2850496a99e3cfa1605c5e_78513_0017411ffa4453d86fd6c218f1ee9a3a.png 760w,
                /note/computer-network/transport-layer/tcp/TCP%20Termination_hu032c00bd0e2850496a99e3cfa1605c5e_78513_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/tcp/TCP%20Termination_hu032c00bd0e2850496a99e3cfa1605c5e_78513_c32abfc067aae8e1b4fe109ae7b6e521.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/TCP%20Termination_hu032c00bd0e2850496a99e3cfa1605c5e_78513_c32abfc067aae8e1b4fe109ae7b6e521.png&#34;
                width=&#34;554&#34;
                height=&#34;536&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -143,7 +143,7 @@
                /note/computer-network/transport-layer/tcp/SACK_hu8c5fb22782cc185c16bdd144bbae0fd8_41653_e3badf4c1f5caafc3e79b78ba4787a71.png 400w,
                /note/computer-network/transport-layer/tcp/SACK_hu8c5fb22782cc185c16bdd144bbae0fd8_41653_975245b4ed155834b59a768a6ca47857.png 760w,
                /note/computer-network/transport-layer/tcp/SACK_hu8c5fb22782cc185c16bdd144bbae0fd8_41653_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/tcp/SACK_hu8c5fb22782cc185c16bdd144bbae0fd8_41653_e3badf4c1f5caafc3e79b78ba4787a71.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/SACK_hu8c5fb22782cc185c16bdd144bbae0fd8_41653_e3badf4c1f5caafc3e79b78ba4787a71.png&#34;
                width=&#34;582&#34;
                height=&#34;215&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -184,7 +184,7 @@
                /note/computer-network/transport-layer/tcp/Congestion%20Sliding%20Window_hu8dfc25bd627be4d083284fd8d528f796_60626_fb7f10ac7835f50a8ff845a6e9d3b41b.png 400w,
                /note/computer-network/transport-layer/tcp/Congestion%20Sliding%20Window_hu8dfc25bd627be4d083284fd8d528f796_60626_d581b52facff6eb51bdb4eddc434f30e.png 760w,
                /note/computer-network/transport-layer/tcp/Congestion%20Sliding%20Window_hu8dfc25bd627be4d083284fd8d528f796_60626_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/tcp/Congestion%20Sliding%20Window_hu8dfc25bd627be4d083284fd8d528f796_60626_fb7f10ac7835f50a8ff845a6e9d3b41b.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/Congestion%20Sliding%20Window_hu8dfc25bd627be4d083284fd8d528f796_60626_fb7f10ac7835f50a8ff845a6e9d3b41b.png&#34;
                width=&#34;760&#34;
                height=&#34;282&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -211,7 +211,7 @@
                /note/computer-network/transport-layer/tcp/Congestion%20Control_huaa8940d965e19db238c3014e96b6d1fc_93525_529b12dc80022e7085c9d23393d141ea.png 400w,
                /note/computer-network/transport-layer/tcp/Congestion%20Control_huaa8940d965e19db238c3014e96b6d1fc_93525_bdecdcaa9c881596960913c5e3ce02dc.png 760w,
                /note/computer-network/transport-layer/tcp/Congestion%20Control_huaa8940d965e19db238c3014e96b6d1fc_93525_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/tcp/Congestion%20Control_huaa8940d965e19db238c3014e96b6d1fc_93525_529b12dc80022e7085c9d23393d141ea.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/Congestion%20Control_huaa8940d965e19db238c3014e96b6d1fc_93525_529b12dc80022e7085c9d23393d141ea.png&#34;
                width=&#34;760&#34;
                height=&#34;578&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -269,9 +269,9 @@
     
     <item>
       <title>UDP</title>
-      <link>https://panxycris.github.io/note/computer-network/transport-layer/udp/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/transport-layer/udp/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/computer-network/transport-layer/udp/</guid>
+      <guid>https://JamesWang3.github.io/note/computer-network/transport-layer/udp/</guid>
       <description>&lt;p&gt;User Datagram Protocol&lt;/p&gt;
 &lt;h3 id=&#34;feature&#34;&gt;Feature&lt;/h3&gt;
 &lt;ul&gt;
@@ -300,7 +300,7 @@
                /note/computer-network/transport-layer/udp/UDP%20Format_hu89ef0a656cae8465cce5751e160b22d8_91531_a0209e157267e9a5b6824c52eb84ec10.png 400w,
                /note/computer-network/transport-layer/udp/UDP%20Format_hu89ef0a656cae8465cce5751e160b22d8_91531_c9fba1d2bbe2e46e2198a1208a02388d.png 760w,
                /note/computer-network/transport-layer/udp/UDP%20Format_hu89ef0a656cae8465cce5751e160b22d8_91531_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/udp/UDP%20Format_hu89ef0a656cae8465cce5751e160b22d8_91531_a0209e157267e9a5b6824c52eb84ec10.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/udp/UDP%20Format_hu89ef0a656cae8465cce5751e160b22d8_91531_a0209e157267e9a5b6824c52eb84ec10.png&#34;
                width=&#34;760&#34;
                height=&#34;283&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

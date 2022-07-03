@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PanxyCris</title>
-    <link>https://panxycris.github.io/</link>
-      <atom:link href="https://panxycris.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>PanxyCris</description>
+    <title>JamesWang3</title>
+    <link>https://JamesWang3.github.io/</link>
+      <atom:link href="https://JamesWang3.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>JamesWang3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://panxycris.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>PanxyCris</title>
-      <link>https://panxycris.github.io/</link>
+      <url>https://JamesWang3.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>JamesWang3</title>
+      <link>https://JamesWang3.github.io/</link>
     </image>
     
     <item>
       <title>Scalability</title>
-      <link>https://panxycris.github.io/note/system-design/scalability/</link>
+      <link>https://JamesWang3.github.io/note/system-design/scalability/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/system-design/scalability/</guid>
+      <guid>https://JamesWang3.github.io/note/system-design/scalability/</guid>
       <description>&lt;p&gt;Handle an amount of work that resources can be added to the system.&lt;/p&gt;
 &lt;h2 id=&#34;two-modes&#34;&gt;Two modes&lt;/h2&gt;
 &lt;ul&gt;
@@ -80,7 +80,7 @@
                /note/system-design/scalability/nslookup_google_hu15bd37a2029b33082ba983a1806f93bd_95881_3e02cf999951f569633ab8a8a768a443.png 400w,
                /note/system-design/scalability/nslookup_google_hu15bd37a2029b33082ba983a1806f93bd_95881_1cded85855b11767b478f4e3ec7e18f9.png 760w,
                /note/system-design/scalability/nslookup_google_hu15bd37a2029b33082ba983a1806f93bd_95881_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/system-design/scalability/nslookup_google_hu15bd37a2029b33082ba983a1806f93bd_95881_3e02cf999951f569633ab8a8a768a443.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/system-design/scalability/nslookup_google_hu15bd37a2029b33082ba983a1806f93bd_95881_3e02cf999951f569633ab8a8a768a443.png&#34;
                width=&#34;760&#34;
                height=&#34;473&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -151,9 +151,9 @@
     
     <item>
       <title>Maximum Running Time of N Computers</title>
-      <link>https://panxycris.github.io/note/leetcode/binary-search/maximum-running-time-of-n-computers/</link>
+      <link>https://JamesWang3.github.io/note/leetcode/binary-search/maximum-running-time-of-n-computers/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/leetcode/binary-search/maximum-running-time-of-n-computers/</guid>
+      <guid>https://JamesWang3.github.io/note/leetcode/binary-search/maximum-running-time-of-n-computers/</guid>
       <description>&lt;h3 id=&#34;problem-description&#34;&gt;Problem description&lt;/h3&gt;
 &lt;p&gt;You have &lt;code&gt;n&lt;/code&gt; computers. You are given the integer &lt;code&gt;n&lt;/code&gt; and a &lt;strong&gt;0-indexed&lt;/strong&gt; integer array &lt;code&gt;batteries&lt;/code&gt; where the $i^{th}$ battery can &lt;strong&gt;run&lt;/strong&gt; a computer for &lt;code&gt;batteries[i]&lt;/code&gt; minutes. You are interested in running &lt;strong&gt;all&lt;/strong&gt; &lt;code&gt;n&lt;/code&gt; computers &lt;strong&gt;simultaneously&lt;/strong&gt; using the given batteries.&lt;/p&gt;
 &lt;p&gt;Initially, you can insert &lt;strong&gt;at most one battery&lt;/strong&gt; into each computer. After that and at any integer time moment, you can remove a battery from a computer and insert another battery &lt;strong&gt;any number of times&lt;/strong&gt;. The inserted battery can be a totally new battery or a battery from another computer. You may assume that the removing and inserting processes take no time.&lt;/p&gt;
@@ -212,9 +212,9 @@ ll target &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; n &lt;span st
     
     <item>
       <title>Design a Leaderboard</title>
-      <link>https://panxycris.github.io/note/leetcode/design/design-a-leaderboard/</link>
+      <link>https://JamesWang3.github.io/note/leetcode/design/design-a-leaderboard/</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/leetcode/design/design-a-leaderboard/</guid>
+      <guid>https://JamesWang3.github.io/note/leetcode/design/design-a-leaderboard/</guid>
       <description>&lt;h3 id=&#34;problem-description&#34;&gt;Problem description&lt;/h3&gt;
 &lt;p&gt;Design a Leaderboard class, which has 3 functions:&lt;/p&gt;
 &lt;ol&gt;
@@ -283,9 +283,9 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
     
     <item>
       <title>Consistency</title>
-      <link>https://panxycris.github.io/note/system-design/cap/consistency/</link>
+      <link>https://JamesWang3.github.io/note/system-design/cap/consistency/</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/system-design/cap/consistency/</guid>
+      <guid>https://JamesWang3.github.io/note/system-design/cap/consistency/</guid>
       <description>&lt;p&gt;In order to have a consistent data, we always have to synchronize multiple copies of the same data.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -316,9 +316,9 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
     
     <item>
       <title>HTTP</title>
-      <link>https://panxycris.github.io/note/computer-network/application-layer/http/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/application-layer/http/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/computer-network/application-layer/http/</guid>
+      <guid>https://JamesWang3.github.io/note/computer-network/application-layer/http/</guid>
       <description>&lt;p&gt;In this topic, we introduced a simple history of HTTP evolvation. And we compare the pros and cons of each of them.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;HTTP Transfer progress&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;When TCP connection has already initiated, HTTP begins to be transferred.&lt;/p&gt;
@@ -356,7 +356,7 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
                /note/computer-network/application-layer/http/HTTP%201.0_hu01d27e33e883dec6028d423bb514d024_160203_da8085695593672e3d7fa21bb46c59fb.png 400w,
                /note/computer-network/application-layer/http/HTTP%201.0_hu01d27e33e883dec6028d423bb514d024_160203_18ce8bc437b682613eca4cf9c6692752.png 760w,
                /note/computer-network/application-layer/http/HTTP%201.0_hu01d27e33e883dec6028d423bb514d024_160203_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/application-layer/http/HTTP%201.0_hu01d27e33e883dec6028d423bb514d024_160203_da8085695593672e3d7fa21bb46c59fb.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/application-layer/http/HTTP%201.0_hu01d27e33e883dec6028d423bb514d024_160203_da8085695593672e3d7fa21bb46c59fb.png&#34;
                width=&#34;760&#34;
                height=&#34;607&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -394,7 +394,7 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
                /note/computer-network/application-layer/http/HTTP%201.1_hudc80dc6d9dfaf95317bfb6566464cea5_293312_e92ad06d71c0978da22628b2bb552e2b.png 400w,
                /note/computer-network/application-layer/http/HTTP%201.1_hudc80dc6d9dfaf95317bfb6566464cea5_293312_ccd1f57a0e1216d0432cf69f8819465b.png 760w,
                /note/computer-network/application-layer/http/HTTP%201.1_hudc80dc6d9dfaf95317bfb6566464cea5_293312_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/application-layer/http/HTTP%201.1_hudc80dc6d9dfaf95317bfb6566464cea5_293312_e92ad06d71c0978da22628b2bb552e2b.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/application-layer/http/HTTP%201.1_hudc80dc6d9dfaf95317bfb6566464cea5_293312_e92ad06d71c0978da22628b2bb552e2b.png&#34;
                width=&#34;760&#34;
                height=&#34;345&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -434,7 +434,7 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
                /note/computer-network/application-layer/http/HTTP%202.0_hu57404a164243915960cb4cf0f15bdb62_321931_5245748c10207e7ee13d9915ee065d84.png 400w,
                /note/computer-network/application-layer/http/HTTP%202.0_hu57404a164243915960cb4cf0f15bdb62_321931_0b0fd9bbd520f9732d3abc4d483596fe.png 760w,
                /note/computer-network/application-layer/http/HTTP%202.0_hu57404a164243915960cb4cf0f15bdb62_321931_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/application-layer/http/HTTP%202.0_hu57404a164243915960cb4cf0f15bdb62_321931_5245748c10207e7ee13d9915ee065d84.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/application-layer/http/HTTP%202.0_hu57404a164243915960cb4cf0f15bdb62_321931_5245748c10207e7ee13d9915ee065d84.png&#34;
                width=&#34;760&#34;
                height=&#34;355&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -473,7 +473,7 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
                /note/computer-network/application-layer/http/TLS%20vs%20QUIC_hue4a094707c7ff35e578be77688e7bff1_262852_89e4669950369d6dc2931acaaf304a00.png 400w,
                /note/computer-network/application-layer/http/TLS%20vs%20QUIC_hue4a094707c7ff35e578be77688e7bff1_262852_ac9930dbd273e1eba75a8c2d57c8f39c.png 760w,
                /note/computer-network/application-layer/http/TLS%20vs%20QUIC_hue4a094707c7ff35e578be77688e7bff1_262852_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/application-layer/http/TLS%20vs%20QUIC_hue4a094707c7ff35e578be77688e7bff1_262852_89e4669950369d6dc2931acaaf304a00.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/application-layer/http/TLS%20vs%20QUIC_hue4a094707c7ff35e578be77688e7bff1_262852_89e4669950369d6dc2931acaaf304a00.png&#34;
                width=&#34;760&#34;
                height=&#34;345&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -482,9 +482,9 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
     
     <item>
       <title>Availability</title>
-      <link>https://panxycris.github.io/note/system-design/cap/availability/</link>
+      <link>https://JamesWang3.github.io/note/system-design/cap/availability/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/system-design/cap/availability/</guid>
+      <guid>https://JamesWang3.github.io/note/system-design/cap/availability/</guid>
       <description>&lt;p&gt;To support a high availability, there are two complemenrary problems.&lt;/p&gt;
 &lt;h3 id=&#34;fail-over&#34;&gt;Fail-Over&lt;/h3&gt;
 &lt;table&gt;
@@ -536,9 +536,9 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
     
     <item>
       <title>Randomly pick an element</title>
-      <link>https://panxycris.github.io/note/leetcode/design/randomly-pick-an-element/</link>
+      <link>https://JamesWang3.github.io/note/leetcode/design/randomly-pick-an-element/</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/leetcode/design/randomly-pick-an-element/</guid>
+      <guid>https://JamesWang3.github.io/note/leetcode/design/randomly-pick-an-element/</guid>
       <description>&lt;h3 id=&#34;problem-description&#34;&gt;Problem description&lt;/h3&gt;
 &lt;p&gt;Design a data structure, which has 3 functions:&lt;/p&gt;
 &lt;ol&gt;
@@ -591,9 +591,9 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
     
     <item>
       <title>Cookie</title>
-      <link>https://panxycris.github.io/note/computer-network/application-layer/cookie/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/application-layer/cookie/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/computer-network/application-layer/cookie/</guid>
+      <guid>https://JamesWang3.github.io/note/computer-network/application-layer/cookie/</guid>
       <description>&lt;p&gt;Maintain user/server state&lt;/p&gt;
 &lt;p&gt;HTTP GET/response is stateless, so in the server, we always create a cookie for each client, so that in following transactions, the server can track the request state of each client.&lt;/p&gt;
 &lt;h3 id=&#34;privacy&#34;&gt;Privacy&lt;/h3&gt;
@@ -632,7 +632,7 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
                /note/computer-network/application-layer/cookie/cookie_hu83ed41a0a1e489b71ddc81a02d3f33fd_410707_848cd33ed4b28c5f923b327be0c9a6c3.png 400w,
                /note/computer-network/application-layer/cookie/cookie_hu83ed41a0a1e489b71ddc81a02d3f33fd_410707_14a8e841a731efe7cb746d44894fa9e3.png 760w,
                /note/computer-network/application-layer/cookie/cookie_hu83ed41a0a1e489b71ddc81a02d3f33fd_410707_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/application-layer/cookie/cookie_hu83ed41a0a1e489b71ddc81a02d3f33fd_410707_848cd33ed4b28c5f923b327be0c9a6c3.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/application-layer/cookie/cookie_hu83ed41a0a1e489b71ddc81a02d3f33fd_410707_848cd33ed4b28c5f923b327be0c9a6c3.png&#34;
                width=&#34;760&#34;
                height=&#34;390&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -641,9 +641,9 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
     
     <item>
       <title>CDN</title>
-      <link>https://panxycris.github.io/note/computer-network/application-layer/cdn/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/application-layer/cdn/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/computer-network/application-layer/cdn/</guid>
+      <guid>https://JamesWang3.github.io/note/computer-network/application-layer/cdn/</guid>
       <description>&lt;p&gt;Content Delivery Network&lt;/p&gt;
 &lt;p&gt;A geographically distributed network of servers and their data centers that help in web content distribution to users with minimal delay.&lt;/p&gt;
 &lt;h3 id=&#34;how-does-cdn-work&#34;&gt;How does CDN work&lt;/h3&gt;
@@ -673,7 +673,7 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
                /note/computer-network/application-layer/cdn/CDN_hu72427bd34d3a2522517a4e3e3a6c312a_208523_f6be9962ab902337089254e013fe4ec7.png 400w,
                /note/computer-network/application-layer/cdn/CDN_hu72427bd34d3a2522517a4e3e3a6c312a_208523_e33e58b2db4126e9a593d4d298e36df8.png 760w,
                /note/computer-network/application-layer/cdn/CDN_hu72427bd34d3a2522517a4e3e3a6c312a_208523_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/application-layer/cdn/CDN_hu72427bd34d3a2522517a4e3e3a6c312a_208523_f6be9962ab902337089254e013fe4ec7.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/application-layer/cdn/CDN_hu72427bd34d3a2522517a4e3e3a6c312a_208523_f6be9962ab902337089254e013fe4ec7.png&#34;
                width=&#34;760&#34;
                height=&#34;510&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -743,9 +743,9 @@ multiset&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span 
     
     <item>
       <title>NTP</title>
-      <link>https://panxycris.github.io/note/computer-network/application-layer/ntp/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/application-layer/ntp/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/computer-network/application-layer/ntp/</guid>
+      <guid>https://JamesWang3.github.io/note/computer-network/application-layer/ntp/</guid>
       <description>&lt;p&gt;Network Time Protocol&lt;/p&gt;
 &lt;p&gt;Provide accurate timing in the network and synchronize routers, hosts,
 and other network devices.&lt;/p&gt;
@@ -769,7 +769,7 @@ and other network devices.&lt;/p&gt;
                /note/computer-network/application-layer/ntp/NTP_hua7755a23f74aece6fdce52eaa24c39e2_482807_7381ff6a14250fb747cdc49cbe538ba5.png 400w,
                /note/computer-network/application-layer/ntp/NTP_hua7755a23f74aece6fdce52eaa24c39e2_482807_c0c5b13157dd188e87553eeeb646b006.png 760w,
                /note/computer-network/application-layer/ntp/NTP_hua7755a23f74aece6fdce52eaa24c39e2_482807_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/application-layer/ntp/NTP_hua7755a23f74aece6fdce52eaa24c39e2_482807_7381ff6a14250fb747cdc49cbe538ba5.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/application-layer/ntp/NTP_hua7755a23f74aece6fdce52eaa24c39e2_482807_7381ff6a14250fb747cdc49cbe538ba5.png&#34;
                width=&#34;760&#34;
                height=&#34;394&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -794,9 +794,9 @@ and other network devices.&lt;/p&gt;
     
     <item>
       <title>SNMP</title>
-      <link>https://panxycris.github.io/note/computer-network/application-layer/snmp/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/application-layer/snmp/</link>
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/computer-network/application-layer/snmp/</guid>
+      <guid>https://JamesWang3.github.io/note/computer-network/application-layer/snmp/</guid>
       <description>&lt;p&gt;Simple Network Management Protocol&lt;/p&gt;
 &lt;p&gt;Exchange management information between network devices&lt;/p&gt;
 &lt;ul&gt;
@@ -826,7 +826,7 @@ and other network devices.&lt;/p&gt;
                /note/computer-network/application-layer/snmp/SNMP%20Message%20Format_hu92bcf277dfefb76a8ebe9b8a12c2ba91_76854_fdca34bb588e4ca38831f402230e13b7.png 400w,
                /note/computer-network/application-layer/snmp/SNMP%20Message%20Format_hu92bcf277dfefb76a8ebe9b8a12c2ba91_76854_cdd1e9477b9ecc174003a4a77e40ff1a.png 760w,
                /note/computer-network/application-layer/snmp/SNMP%20Message%20Format_hu92bcf277dfefb76a8ebe9b8a12c2ba91_76854_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/application-layer/snmp/SNMP%20Message%20Format_hu92bcf277dfefb76a8ebe9b8a12c2ba91_76854_fdca34bb588e4ca38831f402230e13b7.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/application-layer/snmp/SNMP%20Message%20Format_hu92bcf277dfefb76a8ebe9b8a12c2ba91_76854_fdca34bb588e4ca38831f402230e13b7.png&#34;
                width=&#34;760&#34;
                height=&#34;223&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -873,7 +873,7 @@ and other network devices.&lt;/p&gt;
                /note/computer-network/application-layer/snmp/MIB_hu19b8396c353a12fd7220e3112328ffb3_187982_f93a20ac91a6c368e02a5a8bf6e2506e.png 400w,
                /note/computer-network/application-layer/snmp/MIB_hu19b8396c353a12fd7220e3112328ffb3_187982_77ff4fd5d622d2fabb122677d8f4661f.png 760w,
                /note/computer-network/application-layer/snmp/MIB_hu19b8396c353a12fd7220e3112328ffb3_187982_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/application-layer/snmp/MIB_hu19b8396c353a12fd7220e3112328ffb3_187982_f93a20ac91a6c368e02a5a8bf6e2506e.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/application-layer/snmp/MIB_hu19b8396c353a12fd7220e3112328ffb3_187982_f93a20ac91a6c368e02a5a8bf6e2506e.png&#34;
                width=&#34;760&#34;
                height=&#34;497&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -883,9 +883,9 @@ and other network devices.&lt;/p&gt;
     
     <item>
       <title>Minimum Swaps to Group All 1&#39;s Together</title>
-      <link>https://panxycris.github.io/note/leetcode/sliding-window/minimum-swaps-to-group-all-1s-together/</link>
+      <link>https://JamesWang3.github.io/note/leetcode/sliding-window/minimum-swaps-to-group-all-1s-together/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/leetcode/sliding-window/minimum-swaps-to-group-all-1s-together/</guid>
+      <guid>https://JamesWang3.github.io/note/leetcode/sliding-window/minimum-swaps-to-group-all-1s-together/</guid>
       <description>&lt;h3 id=&#34;problem-description&#34;&gt;Problem description&lt;/h3&gt;
 &lt;p&gt;Given a binary array &lt;code&gt;data&lt;/code&gt;, return the minimum number of swaps required to group all 1’s present in the array together in &lt;strong&gt;any place&lt;/strong&gt; in the array.&lt;/p&gt;
 &lt;h3 id=&#34;constraints&#34;&gt;Constraints&lt;/h3&gt;
@@ -922,9 +922,9 @@ and other network devices.&lt;/p&gt;
     
     <item>
       <title>TCP</title>
-      <link>https://panxycris.github.io/note/computer-network/transport-layer/tcp/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/computer-network/transport-layer/tcp/</guid>
+      <guid>https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/</guid>
       <description>&lt;p&gt;Transport Control Protocol&lt;/p&gt;
 &lt;h3 id=&#34;feature&#34;&gt;Feature&lt;/h3&gt;
 &lt;ul&gt;
@@ -954,7 +954,7 @@ and other network devices.&lt;/p&gt;
                /note/computer-network/transport-layer/tcp/TCP%20Header_hua3d9dce47e5b42c0179df68bbfbdba33_46648_2c07b13bfee7ff6f325ab01a8c9f1462.png 400w,
                /note/computer-network/transport-layer/tcp/TCP%20Header_hua3d9dce47e5b42c0179df68bbfbdba33_46648_021ca28d9a382ac97fa54c0808fe751d.png 760w,
                /note/computer-network/transport-layer/tcp/TCP%20Header_hua3d9dce47e5b42c0179df68bbfbdba33_46648_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/tcp/TCP%20Header_hua3d9dce47e5b42c0179df68bbfbdba33_46648_2c07b13bfee7ff6f325ab01a8c9f1462.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/TCP%20Header_hua3d9dce47e5b42c0179df68bbfbdba33_46648_2c07b13bfee7ff6f325ab01a8c9f1462.png&#34;
                width=&#34;570&#34;
                height=&#34;298&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -995,7 +995,7 @@ and other network devices.&lt;/p&gt;
                /note/computer-network/transport-layer/tcp/TCP%20Establishment_hu66203eec0205b708c60acc647ae66ee5_47122_bc4e972b1f0574fe14e6437bda0603f8.png 400w,
                /note/computer-network/transport-layer/tcp/TCP%20Establishment_hu66203eec0205b708c60acc647ae66ee5_47122_43c1c87887aa0f2ce22067d1f502d470.png 760w,
                /note/computer-network/transport-layer/tcp/TCP%20Establishment_hu66203eec0205b708c60acc647ae66ee5_47122_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/tcp/TCP%20Establishment_hu66203eec0205b708c60acc647ae66ee5_47122_bc4e972b1f0574fe14e6437bda0603f8.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/TCP%20Establishment_hu66203eec0205b708c60acc647ae66ee5_47122_bc4e972b1f0574fe14e6437bda0603f8.png&#34;
                width=&#34;562&#34;
                height=&#34;478&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1021,7 +1021,7 @@ and other network devices.&lt;/p&gt;
                /note/computer-network/transport-layer/tcp/TCP%20Termination_hu032c00bd0e2850496a99e3cfa1605c5e_78513_c32abfc067aae8e1b4fe109ae7b6e521.png 400w,
                /note/computer-network/transport-layer/tcp/TCP%20Termination_hu032c00bd0e2850496a99e3cfa1605c5e_78513_0017411ffa4453d86fd6c218f1ee9a3a.png 760w,
                /note/computer-network/transport-layer/tcp/TCP%20Termination_hu032c00bd0e2850496a99e3cfa1605c5e_78513_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/tcp/TCP%20Termination_hu032c00bd0e2850496a99e3cfa1605c5e_78513_c32abfc067aae8e1b4fe109ae7b6e521.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/TCP%20Termination_hu032c00bd0e2850496a99e3cfa1605c5e_78513_c32abfc067aae8e1b4fe109ae7b6e521.png&#34;
                width=&#34;554&#34;
                height=&#34;536&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1051,7 +1051,7 @@ and other network devices.&lt;/p&gt;
                /note/computer-network/transport-layer/tcp/SACK_hu8c5fb22782cc185c16bdd144bbae0fd8_41653_e3badf4c1f5caafc3e79b78ba4787a71.png 400w,
                /note/computer-network/transport-layer/tcp/SACK_hu8c5fb22782cc185c16bdd144bbae0fd8_41653_975245b4ed155834b59a768a6ca47857.png 760w,
                /note/computer-network/transport-layer/tcp/SACK_hu8c5fb22782cc185c16bdd144bbae0fd8_41653_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/tcp/SACK_hu8c5fb22782cc185c16bdd144bbae0fd8_41653_e3badf4c1f5caafc3e79b78ba4787a71.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/SACK_hu8c5fb22782cc185c16bdd144bbae0fd8_41653_e3badf4c1f5caafc3e79b78ba4787a71.png&#34;
                width=&#34;582&#34;
                height=&#34;215&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1092,7 +1092,7 @@ and other network devices.&lt;/p&gt;
                /note/computer-network/transport-layer/tcp/Congestion%20Sliding%20Window_hu8dfc25bd627be4d083284fd8d528f796_60626_fb7f10ac7835f50a8ff845a6e9d3b41b.png 400w,
                /note/computer-network/transport-layer/tcp/Congestion%20Sliding%20Window_hu8dfc25bd627be4d083284fd8d528f796_60626_d581b52facff6eb51bdb4eddc434f30e.png 760w,
                /note/computer-network/transport-layer/tcp/Congestion%20Sliding%20Window_hu8dfc25bd627be4d083284fd8d528f796_60626_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/tcp/Congestion%20Sliding%20Window_hu8dfc25bd627be4d083284fd8d528f796_60626_fb7f10ac7835f50a8ff845a6e9d3b41b.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/Congestion%20Sliding%20Window_hu8dfc25bd627be4d083284fd8d528f796_60626_fb7f10ac7835f50a8ff845a6e9d3b41b.png&#34;
                width=&#34;760&#34;
                height=&#34;282&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1119,7 +1119,7 @@ and other network devices.&lt;/p&gt;
                /note/computer-network/transport-layer/tcp/Congestion%20Control_huaa8940d965e19db238c3014e96b6d1fc_93525_529b12dc80022e7085c9d23393d141ea.png 400w,
                /note/computer-network/transport-layer/tcp/Congestion%20Control_huaa8940d965e19db238c3014e96b6d1fc_93525_bdecdcaa9c881596960913c5e3ce02dc.png 760w,
                /note/computer-network/transport-layer/tcp/Congestion%20Control_huaa8940d965e19db238c3014e96b6d1fc_93525_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/tcp/Congestion%20Control_huaa8940d965e19db238c3014e96b6d1fc_93525_529b12dc80022e7085c9d23393d141ea.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/tcp/Congestion%20Control_huaa8940d965e19db238c3014e96b6d1fc_93525_529b12dc80022e7085c9d23393d141ea.png&#34;
                width=&#34;760&#34;
                height=&#34;578&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1177,9 +1177,9 @@ and other network devices.&lt;/p&gt;
     
     <item>
       <title>UDP</title>
-      <link>https://panxycris.github.io/note/computer-network/transport-layer/udp/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/transport-layer/udp/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/computer-network/transport-layer/udp/</guid>
+      <guid>https://JamesWang3.github.io/note/computer-network/transport-layer/udp/</guid>
       <description>&lt;p&gt;User Datagram Protocol&lt;/p&gt;
 &lt;h3 id=&#34;feature&#34;&gt;Feature&lt;/h3&gt;
 &lt;ul&gt;
@@ -1208,7 +1208,7 @@ and other network devices.&lt;/p&gt;
                /note/computer-network/transport-layer/udp/UDP%20Format_hu89ef0a656cae8465cce5751e160b22d8_91531_a0209e157267e9a5b6824c52eb84ec10.png 400w,
                /note/computer-network/transport-layer/udp/UDP%20Format_hu89ef0a656cae8465cce5751e160b22d8_91531_c9fba1d2bbe2e46e2198a1208a02388d.png 760w,
                /note/computer-network/transport-layer/udp/UDP%20Format_hu89ef0a656cae8465cce5751e160b22d8_91531_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/transport-layer/udp/UDP%20Format_hu89ef0a656cae8465cce5751e160b22d8_91531_a0209e157267e9a5b6824c52eb84ec10.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/transport-layer/udp/UDP%20Format_hu89ef0a656cae8465cce5751e160b22d8_91531_a0209e157267e9a5b6824c52eb84ec10.png&#34;
                width=&#34;760&#34;
                height=&#34;283&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1227,9 +1227,9 @@ and other network devices.&lt;/p&gt;
     
     <item>
       <title>DHCP</title>
-      <link>https://panxycris.github.io/note/computer-network/network-layer/dhcp/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/network-layer/dhcp/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/computer-network/network-layer/dhcp/</guid>
+      <guid>https://JamesWang3.github.io/note/computer-network/network-layer/dhcp/</guid>
       <description>&lt;p&gt;Dynamic Host Configuration Protocol&lt;/p&gt;
 &lt;p&gt;Designed to dynamically configure TCP/IP hosts in a centralized manner from DHCP server.&lt;/p&gt;
 &lt;h3 id=&#34;function&#34;&gt;Function&lt;/h3&gt;
@@ -1259,7 +1259,7 @@ and other network devices.&lt;/p&gt;
                /note/computer-network/network-layer/dhcp/DHCP_hud663d6abf2db500a1190a4428fea0580_117949_62f11cfb055590a9986be2bc638fa04c.png 400w,
                /note/computer-network/network-layer/dhcp/DHCP_hud663d6abf2db500a1190a4428fea0580_117949_f596218a4de3dbc80db3c8b32e1b6790.png 760w,
                /note/computer-network/network-layer/dhcp/DHCP_hud663d6abf2db500a1190a4428fea0580_117949_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/network-layer/dhcp/DHCP_hud663d6abf2db500a1190a4428fea0580_117949_62f11cfb055590a9986be2bc638fa04c.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/network-layer/dhcp/DHCP_hud663d6abf2db500a1190a4428fea0580_117949_62f11cfb055590a9986be2bc638fa04c.png&#34;
                width=&#34;760&#34;
                height=&#34;224&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1315,7 +1315,7 @@ address in the Your IP Address field&lt;/p&gt;
                /note/computer-network/network-layer/dhcp/DHCP%20Header_hu5b7cc96fd4b093541ae6f5cf3addd6af_198894_78319e4a0bde2ccf8ebd11df2ecce3b5.png 400w,
                /note/computer-network/network-layer/dhcp/DHCP%20Header_hu5b7cc96fd4b093541ae6f5cf3addd6af_198894_8e2eb6984baecf2576134675c18e31c6.png 760w,
                /note/computer-network/network-layer/dhcp/DHCP%20Header_hu5b7cc96fd4b093541ae6f5cf3addd6af_198894_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/network-layer/dhcp/DHCP%20Header_hu5b7cc96fd4b093541ae6f5cf3addd6af_198894_78319e4a0bde2ccf8ebd11df2ecce3b5.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/network-layer/dhcp/DHCP%20Header_hu5b7cc96fd4b093541ae6f5cf3addd6af_198894_78319e4a0bde2ccf8ebd11df2ecce3b5.png&#34;
                width=&#34;760&#34;
                height=&#34;472&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1359,9 +1359,9 @@ terminated path name of a file to bootstrap from&lt;/li&gt;
     
     <item>
       <title>Network Translator</title>
-      <link>https://panxycris.github.io/note/computer-network/network-layer/network-translator/</link>
+      <link>https://JamesWang3.github.io/note/computer-network/network-layer/network-translator/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/note/computer-network/network-layer/network-translator/</guid>
+      <guid>https://JamesWang3.github.io/note/computer-network/network-layer/network-translator/</guid>
       <description>&lt;p&gt;Network Address and Port Address Translator&lt;/p&gt;
 &lt;h3 id=&#34;nat&#34;&gt;NAT&lt;/h3&gt;
 &lt;p&gt;Network Address Translator&lt;/p&gt;
@@ -1406,7 +1406,7 @@ addresses (usually public).&lt;/li&gt;
                /note/computer-network/network-layer/network-translator/NAT_hu4ff8046c06eb34f39266bd8704a793e2_442149_70f402d2291b72a7a215851d7a66c232.png 400w,
                /note/computer-network/network-layer/network-translator/NAT_hu4ff8046c06eb34f39266bd8704a793e2_442149_92c78ad351796b7a0fdc935a01920553.png 760w,
                /note/computer-network/network-layer/network-translator/NAT_hu4ff8046c06eb34f39266bd8704a793e2_442149_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://panxycris.github.io/note/computer-network/network-layer/network-translator/NAT_hu4ff8046c06eb34f39266bd8704a793e2_442149_70f402d2291b72a7a215851d7a66c232.png&#34;
+               src=&#34;https://JamesWang3.github.io/note/computer-network/network-layer/network-translator/NAT_hu4ff8046c06eb34f39266bd8704a793e2_442149_70f402d2291b72a7a215851d7a66c232.png&#34;
                width=&#34;760&#34;
                height=&#34;387&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1415,9 +1415,9 @@ addresses (usually public).&lt;/li&gt;
     
     <item>
       <title>WhaleWord</title>
-      <link>https://panxycris.github.io/project/whaleword/</link>
+      <link>https://JamesWang3.github.io/project/whaleword/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://panxycris.github.io/project/whaleword/</guid>
+      <guid>https://JamesWang3.github.io/project/whaleword/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1435,9 +1435,9 @@ addresses (usually public).&lt;/li&gt;
     
     <item>
       <title>IPNET</title>
-      <link>https://panxycris.github.io/project/ipnet/</link>
+      <link>https://JamesWang3.github.io/project/ipnet/</link>
       <pubDate>Sat, 03 Nov 2018 18:33:07 +0800</pubDate>
-      <guid>https://panxycris.github.io/project/ipnet/</guid>
+      <guid>https://JamesWang3.github.io/project/ipnet/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;A platform for patent trading based on blockchain.&lt;/li&gt;
 &lt;li&gt;The blockchain data structure based on &lt;strong&gt;Hyperledger&lt;/strong&gt;
@@ -1453,9 +1453,9 @@ addresses (usually public).&lt;/li&gt;
     
     <item>
       <title>UTag</title>
-      <link>https://panxycris.github.io/project/utag/</link>
+      <link>https://JamesWang3.github.io/project/utag/</link>
       <pubDate>Sun, 24 Jun 2018 18:54:05 +0800</pubDate>
-      <guid>https://panxycris.github.io/project/utag/</guid>
+      <guid>https://JamesWang3.github.io/project/utag/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;A platform for data annotation labeling.&lt;/li&gt;
 &lt;li&gt;The data annotation requester publishes images and videos on the platform, and the platform automatically labels, and then sends the lower recognition rate data to the workers to label.&lt;/li&gt;
