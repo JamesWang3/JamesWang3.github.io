@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | PanxyCris</title>
+    <link>https://panxycris.github.io/project/</link>
+      <atom:link href="https://panxycris.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://panxycris.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://panxycris.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>WhaleWord</title>
+      <link>https://panxycris.github.io/project/whaleword/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://panxycris.github.io/project/whaleword/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An Android App that recites GRE vocabulary.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It helps the customers manage words and scientifically makes a study plan according to The Ebbinghaus Forgetting Curve.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is a coursework for Human-Computer Interaction Systems. And I completed the part of making the study plans.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IPNET</title>
+      <link>https://panxycris.github.io/project/ipnet/</link>
+      <pubDate>Sat, 03 Nov 2018 18:33:07 +0800</pubDate>
+      <guid>https://panxycris.github.io/project/ipnet/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;A platform for patent trading based on blockchain.&lt;/li&gt;
+&lt;li&gt;The blockchain data structure based on &lt;strong&gt;Hyperledger&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Services including patent trading, patent loan and insurance&lt;/li&gt;
+&lt;li&gt;Users including buyers, buyees, banks, insurance companies, patent legacies and government&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Developed the back end with Springboot and MySql.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UTag</title>
+      <link>https://panxycris.github.io/project/utag/</link>
+      <pubDate>Sun, 24 Jun 2018 18:54:05 +0800</pubDate>
+      <guid>https://panxycris.github.io/project/utag/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;A platform for data annotation labeling.&lt;/li&gt;
+&lt;li&gt;The data annotation requester publishes images and videos on the platform, and the platform automatically labels, and then sends the lower recognition rate data to the workers to label.&lt;/li&gt;
+&lt;li&gt;It is a coursework for Software Engineering and Computing III. And I completed front-end and optimize the recognition algorithm.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
