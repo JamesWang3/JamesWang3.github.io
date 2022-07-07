@@ -1,6 +1,6 @@
-# Personal Portfolio ⚡️ 
+# Personal pages ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
-
+> This page is base on varadbhogayata's template.
 > https://JamesWang3.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/JamesWang3/JamesWang3.github.io) 
@@ -10,13 +10,13 @@
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/JamesWang3/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-### Website Preview
+<!-- ### Website Preview
 <p align="center"> 
   <kbd>
     <a href="https://JamesWang3.github.io" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
-</p>
+</p> -->
 
 :star: Star me on GitHub — it helps!
 
